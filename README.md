@@ -2,7 +2,8 @@
 Merging bilibili download video and audio
 ## Using
 ```
+apt install tsu -y
 npm install pnpm -g
 pnpm install
-node index
+sudo node index
 ```
